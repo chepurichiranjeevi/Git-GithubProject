@@ -1,1 +1,4 @@
 this is first code file
+
+I am c developer and i am developing
+gaming project
